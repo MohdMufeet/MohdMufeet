@@ -106,7 +106,7 @@ const mufeet = {
 <a href="https://mohd-mufeet.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=31E7B6" />
 </a>
-<a href="https://linkedin.com/in/mohdmufeet" target="_blank">
+<a href="https://linkedin.com/in/mohd-mufeet" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/mohdmufeet" target="_blank">
