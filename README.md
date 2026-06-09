@@ -31,7 +31,7 @@ const mufeet = {
     "Node.js",
     "Express.js",
     "Appwrite",
-    "Firebase"
+    "Supabase"
   ],
 
   databases: [
@@ -60,7 +60,7 @@ const mufeet = {
 <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,bootstrap,html,css" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,appwrite,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,appwrite,supabase" />
 
 ### Tools & UI Design
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
