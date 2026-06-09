@@ -23,8 +23,7 @@ const mufeet = {
     "Redux",
     "JavaScript",
     "TypeScript",
-    "Tailwind CSS",
-    "Bootstrap"
+    "Tailwind CSS"
   ],
 
   backend: [
@@ -57,7 +56,7 @@ const mufeet = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,html,css" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,appwrite,supabase" />
